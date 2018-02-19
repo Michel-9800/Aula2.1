@@ -1,3 +1,3 @@
-Fernanda Montenegro
-Lima Duarte
-Mariana Rui Barbosa
+Fernanda Montenegro\
+Lima Duarte\
+Mariana Rui Barbosa\
