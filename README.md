@@ -1,3 +1,4 @@
 Fernanda Montenegro\
-Lima Duarte\
-Mariana Rui Barbosa
+Antonio Fagundes\
+Mariana Rui Barbosa\
+Miguel Falabela
